@@ -4,9 +4,13 @@ repo_url: https://github.com/uiowa-research/idas
 
 nav:
   - Home: index.md
+
   - Getting Started HPC: 
     - Overview: get_started/overview/index.md
     - Access: get_started/access/index.md
+
+  - __Templates(will be hidden): _temp/index.md
+
 
 markdown_extensions:
   - toc:
