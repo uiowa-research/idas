@@ -17,13 +17,13 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 <div class="grid cards" markdown>
 
--   :material-alert-box-outline:{ .lg .middle } __November 2025 Argon Maintenance__
+-   :material-alert-box-outline:{ .lg .middle } __2026 Spring IDAS Maintenance__
 
     ---
 
-    * The Fall 2025 maintenance will be from 8:00 AM on November 19th until 8:00 AM on November 20th
+    * The Spring 2026 maitenance will be ...
 
--   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
+-   :material-update:{ .lg .middle } __System Update__
 
     ---
 
@@ -31,7 +31,7 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
     * SGE to SLURM
 
 
--   :material-school:{ .lg .middle } __Fall Semester 2025 Workshops__
+-   :material-school:{ .lg .middle } __Spring 2026 Workshops__
 
     ---
 
